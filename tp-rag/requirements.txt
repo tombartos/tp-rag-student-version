@@ -4,3 +4,4 @@ langchain-community
 bs4
 langchain-huggingface
 langchain-chroma
+pypdf
